@@ -70,7 +70,7 @@ This Power BI project converts raw transactional sales data into actionable busi
 ## 📸 Dashboard Preview
 
 ### 1. Home / Navigation
-![Home View](Home.jpg)
+![Home View](Home.png)
 
 ### 2. Sales Overview
 ![Sales Overview](Sales%20Overview.png)
